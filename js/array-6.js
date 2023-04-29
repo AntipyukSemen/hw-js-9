@@ -1,5 +1,14 @@
 // const numbers = [6, 10, 30, 14, 63, 89, 29, 97, 62, 100];
-// let maxNumber;
+// let maxNumber = 0;
+
+// for (let number of numbers) {
+//     if (maxNumber < number) {
+//         maxNumber = number;
+//     } else {
+//         continue;
+//     };
+// };
+// console.log(maxNumber);
 
 // for (let i = 0; i < numbers.length; i++) {
 //     maxNumber = Math.max(...numbers);
