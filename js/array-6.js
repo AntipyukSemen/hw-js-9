@@ -6,6 +6,11 @@
 // };
 // console.log(maxNumber);
 
+// for (let number of numbers) {
+//     maxNumber = Math.max(...numbers);
+//     console.log(maxNumber);
+// };
+
 // const randomNumbers = [
 //   Math.round(Math.random() * (1000 - 100) + 100),
 //   Math.round(Math.random() * (1000 - 100) + 100),
